@@ -1,6 +1,8 @@
 # comp.risk
 Competings Risks Regression Model Use comp.risk (timereg) With (In) R Software
 
+https://www.youtube.com/watch?v=z8wk6ayBOJU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
